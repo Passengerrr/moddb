@@ -1,0 +1,27 @@
+{
+  "name": "modloff",
+  "version": "0.0.1",
+  "description": "a JSON database module",
+  "main": "index.js",
+  "keywords": [
+    "modloff",
+    "modloff-api",
+    "modloff",
+    "modloff",
+    "modloff-db",
+    "json",
+    "jsondb",
+    "db",
+    "database"
+  ],
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modloff/moddb.git"
+  },
+  "author": "modloff",
+  "license": "MIT"
+}
